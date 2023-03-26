@@ -1,0 +1,15 @@
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\bin\Debug\net7.0\Task 2 (variant 2).exe
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\bin\Debug\net7.0\Task 2 (variant 2).deps.json
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\bin\Debug\net7.0\Task 2 (variant 2).runtimeconfig.json
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\bin\Debug\net7.0\Task 2 (variant 2).dll
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\bin\Debug\net7.0\Task 2 (variant 2).pdb
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\obj\Debug\net7.0\Task 2 (variant 2).csproj.AssemblyReference.cache
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\obj\Debug\net7.0\Task 2 (variant 2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\obj\Debug\net7.0\Task 2 (variant 2).AssemblyInfoInputs.cache
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\obj\Debug\net7.0\Task 2 (variant 2).AssemblyInfo.cs
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\obj\Debug\net7.0\Task 2 (variant 2).csproj.CoreCompileInputs.cache
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\obj\Debug\net7.0\Task 2 (variant 2).dll
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\obj\Debug\net7.0\refint\Task 2 (variant 2).dll
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\obj\Debug\net7.0\Task 2 (variant 2).pdb
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\obj\Debug\net7.0\Task 2 (variant 2).genruntimeconfig.cache
+C:\Users\nena\Desktop\Home_task_1\Task 2 (variant 2)\Task 2 (variant 2)\obj\Debug\net7.0\ref\Task 2 (variant 2).dll
